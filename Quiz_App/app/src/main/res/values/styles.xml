@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- border color -->
+        <item name="boxStrokeColor">@drawable/text_input_layout_stroke_color</item>
+        <!-- The color of the label when it is collapsed and the text field is active -->
+        <item name="hintTextColor">#706C6C</item>
+        <!-- The color of the label in all other text field states (such as resting and disabled) -->
+        <item name="android:textColorHint">#706C6C</item>
+    </style>
+</resources>

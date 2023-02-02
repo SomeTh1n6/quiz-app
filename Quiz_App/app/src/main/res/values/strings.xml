@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my-quiz-app</string>
+    <string name="quiz">Quiz app</string>
+    <string name="enter_name">Введите свое имя</string>
+    <string name="name">Имя</string>
+    <string name="begin">Начать</string>
+    <string name="select_category">Выберите категорию</string>
+    <string name="next">Пропустить</string>
+    <string name="resultName">Результаты:</string>
+    <string name="try_again">Начать заново</string>
+</resources>
